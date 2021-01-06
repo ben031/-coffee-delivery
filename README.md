@@ -1,6 +1,8 @@
-# Upload
+# Coffee-Order Web application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+리액트로 처음 만들어본 커피 주문 웹 어플리게이션 입니다.
+
+This is my first Coffee-Order Web application using React!
 
 ## Available Scripts
 
