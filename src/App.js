@@ -1,10 +1,10 @@
 import React, { useState } from "react";
+import allMenu from "./data.js";
 import { Route } from "react-router-dom";
+import { CoffeeContextProvider } from "./context.js";
 import CartList from "./components/CartList.js";
 import MenuList from "./components/MenuList.js";
 import Title from "./components/Title.js";
-import { CoffeeContextProvider } from "./context.js";
-import allMenu from "./data.js";
 import Pay from "./components/Pay";
 import CompletePay from "./components/CompletePay.js";
 import Default from "./components/Default.js";
