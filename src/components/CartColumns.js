@@ -8,7 +8,7 @@ const CartColumns = () => {
       <h2>상품명</h2>
       <h2>수량</h2>
       <h2>금액</h2>
-      <h2></h2>
+      <h2>삭제</h2>
     </Columns>
   );
 };

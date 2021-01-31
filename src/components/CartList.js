@@ -18,7 +18,6 @@ const CartList = () => {
   }, 0);
 
   const commaPrice = addComma(totalPrice);
-
   console.log(ordered);
 
   return (
@@ -35,6 +34,7 @@ const CartList = () => {
             />
           ))}
       </CartGrid>
+
       <Link to="/pay">
         <PayButton style={{ bottom: 0, left: 0, width: "100%" }}>
           {commaPrice}원 결제하기

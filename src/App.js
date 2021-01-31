@@ -7,6 +7,7 @@ import { CoffeeContextProvider } from "./context.js";
 import allMenu from "./data.js";
 import Pay from "./components/Pay";
 import CompletePay from "./components/CompletePay.js";
+import Default from "./components/Default.js";
 
 const App = () => {
   const [menu, setMenu] = useState(allMenu);
@@ -81,6 +82,7 @@ const App = () => {
       <Route path="/cart" component={CartList} />
       <Route path="/pay" component={Pay} />
       <Route path="/complete" component={CompletePay} />
+      <Route path="/default" component={Default} />
     </CoffeeContextProvider>
   );
 };
