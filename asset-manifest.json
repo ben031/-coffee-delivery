@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/-coffee-delivery/static/css/main.b3ca64bd.chunk.css",
+    "main.js": "/-coffee-delivery/static/js/main.3bc1a595.chunk.js",
+    "main.js.map": "/-coffee-delivery/static/js/main.3bc1a595.chunk.js.map",
+    "runtime-main.js": "/-coffee-delivery/static/js/runtime-main.e26d73e9.js",
+    "runtime-main.js.map": "/-coffee-delivery/static/js/runtime-main.e26d73e9.js.map",
+    "static/js/2.c7e845b6.chunk.js": "/-coffee-delivery/static/js/2.c7e845b6.chunk.js",
+    "static/js/2.c7e845b6.chunk.js.map": "/-coffee-delivery/static/js/2.c7e845b6.chunk.js.map",
+    "static/js/3.8791a437.chunk.js": "/-coffee-delivery/static/js/3.8791a437.chunk.js",
+    "static/js/3.8791a437.chunk.js.map": "/-coffee-delivery/static/js/3.8791a437.chunk.js.map",
+    "index.html": "/-coffee-delivery/index.html",
+    "static/css/main.b3ca64bd.chunk.css.map": "/-coffee-delivery/static/css/main.b3ca64bd.chunk.css.map",
+    "static/js/2.c7e845b6.chunk.js.LICENSE.txt": "/-coffee-delivery/static/js/2.c7e845b6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e26d73e9.js",
+    "static/js/2.c7e845b6.chunk.js",
+    "static/css/main.b3ca64bd.chunk.css",
+    "static/js/main.3bc1a595.chunk.js"
+  ]
+}
