@@ -22,7 +22,7 @@ const Title = () => {
           <FontAwesomeIcon icon={faArrowLeft} color="black" size="2x" />
         </Link>
       </Visibility>
-      <h1>커피 마이쪙</h1>
+      <h1>커피의 커피에 의한 커피를 위한</h1>
       <Link to="/cart" onClick={setTrue}>
         <FontAwesomeIcon icon={faCartPlus} color="black" size="2x" />
       </Link>
